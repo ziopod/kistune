@@ -1,0 +1,21 @@
+{
+	"name": "ziopod/kistune",
+	"type": "Kohana-module",
+	"description": "A MVVM Flatfile CMS for Koahana",
+	"Keyword": ["kohana", "flatfile", "CMS", "Markdown"],
+	"homepage": "http://ziopod.com",
+	"licence": "MIT",
+	"authors": [
+		{
+			"name": "Steve Beau",
+			"email": "ziopod@gmail.com",
+			"role": "developer"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"ziopod/flatfile": "0.0.1.*",
+		"zombor/kostache": "4.0.3.*",
+		"php": ">=5.3.0"
+	}
+}
