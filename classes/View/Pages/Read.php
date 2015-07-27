@@ -11,4 +11,4 @@
 * @license		http://opensource.org/licenses/MIT
 **/
 
-class View_Page_Read extends View_Master {}
+class View_Pages_Read extends View_Master {}

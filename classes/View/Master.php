@@ -45,7 +45,7 @@ class View_Master {
 
 		try
 		{
-			$model_name = strtolower(Request::current()->controller()); 
+			$model_name = Inflector::singular(strtolower(Request::current()->controller()));
 			$model = 'Model_' . ucfirst($model_name);
 
 			/**

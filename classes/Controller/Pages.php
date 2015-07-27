@@ -10,7 +10,7 @@
 * @license		http://opensource.org/licenses/MIT
 **/
 
-class Controller_Page extends Controller_Kitsune {
+class Controller_Pages extends Controller_Kitsune {
 
 	/**
 	* Read a page
