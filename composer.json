@@ -1,5 +1,5 @@
 {
-	"name": "ziopod/kistune",
+	"name": "ziopod/kitsune",
 	"type": "Kohana-module",
 	"description": "A MVVM Flatfile CMS for Koahana",
 	"Keyword": ["kohana", "flatfile", "CMS", "Markdown"],
